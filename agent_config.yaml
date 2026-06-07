@@ -1,0 +1,5 @@
+mode: "single"
+host: "localhost:11434"
+model: "gemma4:e4b"
+max_steps: 20
+max_agent_turns: 10
